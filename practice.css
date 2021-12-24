@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.color{
+    color: red;
+}
+.another{
+    color: green;
+}
+.box{
+    display: flex;
+}
+.half-width{
+    width:80% ;
+    padding:50px ;
+}
+.anc{
+    text-decoration: none;
+    background-image: linear-gradient(red,green);
+    color: white;
+    padding: 20px 30px;
+    font-weight: 500;
+    border-radius: 10px;
+    }
